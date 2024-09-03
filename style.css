@@ -63,14 +63,18 @@ ul li a:hover{
 .search{
     width:950px;
     float: left;
-    margin-left: 270px;
+    margin-left: 670px;
     align-content: end;
+    height: 5px;
 
 }
 .srch{
     font-family: 'Times New Roman';
     width: 200px;
-    height:30px;
+    height:25px;
     background: transparent;
+    color:rgb(179, 203, 238)
 
 }
+    
+   
