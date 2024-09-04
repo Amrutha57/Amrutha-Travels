@@ -7,7 +7,7 @@
     width: auto;
    
    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
-   background-image: url(2g.jpg);
+   background-image: url(images/2g.jpg);
    position: relative;
    overflow: hidden;
    background-size: cover;
