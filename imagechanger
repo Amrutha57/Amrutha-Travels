@@ -1,0 +1,21 @@
+@keyframes change{
+   
+    0%{
+        background-image: url(bg5.jpg);
+    }
+    20%{
+        background-image: url(bg.jpgg);
+    }
+    40%{
+        background-image: url(3g.jpg);
+    }
+    60%{
+        background-image: url(4g.jpg);
+    }
+    80%{
+        background-image: url(5g.jpg);
+    }
+    100%{
+        background-image: url(6g.jpg);
+    }
+}
