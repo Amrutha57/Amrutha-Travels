@@ -8,7 +8,7 @@
    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
    position: relative;
    overflow: hidden;
-   background-image: url(bg2.jpg);
+   background-image: url(images/bg2.jpg);
    background-size: cover;
    background-repeat: no-repeat;
     background-position: center;
