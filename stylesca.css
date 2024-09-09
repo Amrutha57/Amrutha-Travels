@@ -27,6 +27,14 @@
     float: left;
     height: 70px;
 }
+.logo1{
+    padding-left: -10px;
+    width: 40px;
+    float: left;
+    padding-top: 10px;
+    text-decoration: none;
+    shape-outside: round;
+}
 .logo a{
     font:bold;
     color:rgb(179, 221, 245);
@@ -36,6 +44,7 @@
     float: left;
     padding-top: 10px;
     text-decoration: none;
+
 }
 .menu{
     width: 590px;
@@ -48,10 +57,11 @@ ul{
     justify-content: center;
     align-items: center;
     list-style: none;
+    margin-left: 100px;
 }
 ul li{
  list-style: none;
- margin-left: 50px;
+ margin-left: 25px;
  margin-top: 27px;
  font-size: 17px;
 }
@@ -70,7 +80,7 @@ ul li a:hover{
 .search{
     width:950px;
     float: left;
-    margin-left: 620px;
+    margin-left: 570px;
     margin-top: -20px;
     align-content: end;
     height: 2px;
@@ -125,3 +135,47 @@ ul li a:hover{
     margin-top: 35%;
     letter-spacing: 2px;
 }
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.footer h1{
+    text-align: center;
+    padding-left: 80px;
+    padding-top: 40px;
+    text-decoration: underline;
+}
+.footer h2{
+    padding-left: 80px;
+    padding-top: 40px;
+    text-decoration: underline;
+}
+.footer h3{
+    padding-left: 80px;
+    padding-top: 30px;
+}
+.footer h4{
+    padding-left: 100px;
+    font-family: Arial;
+    padding-top: 20px;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    min-height: 400px;
+    align-items: center;
+}
+#container div{
+height: 370px;
+width: 335px;
+margin: 60px;
+}
+.footer a{
+    text-decoration: none;
+    color:white;
+}
+ .footer a:hover{
+    text-decoration: none;
+    color:rgb(179, 203, 238)
+ }
